@@ -1,0 +1,1 @@
+python train.py --batch-size 64 --epochs 150 --num-classes 8 --num-works 8 --train-dataset-path 'kvasir-dataset-v2/train' --val-dataset-path 'kvasir-dataset-v2/val' --env-name 'KV'
